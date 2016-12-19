@@ -18,10 +18,10 @@ gem 'putz'
 require 'putz'
 ```
 
-- and now, use `putz` instead `puts`
+- and now, use `putz`, and also `puts`
 ```ruby
 putz "I'll disappear after first execution =D"
-puts "I not will disappear and i'll annoying you until be removed!"
+puts "I won't disappear and I'll annoy until you remove me!"
 ```
 
 # To do
